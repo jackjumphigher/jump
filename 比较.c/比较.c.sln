@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "比较.c", "比较.c\比较.c.vcxproj", "{5F1836B4-526E-4B86-A56B-588889BA9691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1836B4-526E-4B86-A56B-588889BA9691}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F1836B4-526E-4B86-A56B-588889BA9691}.Debug|Win32.Build.0 = Debug|Win32
+		{5F1836B4-526E-4B86-A56B-588889BA9691}.Release|Win32.ActiveCfg = Release|Win32
+		{5F1836B4-526E-4B86-A56B-588889BA9691}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
